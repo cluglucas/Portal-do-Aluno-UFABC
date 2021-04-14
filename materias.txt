@@ -1,0 +1,295 @@
+lucas.clug 3
+BCJ0204-15 Fenomenos Mecanicos 5 F Reprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre organismos e ambiente 3 F Reprovado	Obrigatoria
+BCM0504-15 Natureza da Informacao 3 C Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 D Aprovado Obrigatoria
+MCTB001-17 Algebra Linear 6 B Aprovado Obrigatoria
+MCTA001-17 Algoritmos e Estruturas de Dados I 4 A Aprovado Obrigatoria
+MCTA002-17 Algoritmos e Estruturas de Dados II 4 C Aprovado Obrigatoria
+MCTA003-17 Analise de Algoritmos 4 A Aprovado Obrigatoria
+MCTA004-17 Arquitetura de Computadores 4 B Aprovado Obrigatoria
+MCTA037-17 Banco de Dados 4 D Aprovado Obrigatoria
+MCTA006-17 Circuitos Digitais 4 C Aprovado Obrigatoria
+MCZB012-13 Inferencia Estatistica 4 B Aprovado Opcao Limitada 
+ESZI013-17 Informatica Industrial 4 B Aprovado Opcao Limitada
+MCTA007-17 Compiladores 4 A Aprovado Obrigatoria
+MCTA008-17 Computacao Grafica 4 A Aprovado Obrigatoria
+MCTA009-13 Computadores, Etica e Sociedade 2 B Aprovado Obrigatoria
+MCTA033-15 Engenharia de Software 4 C Aprovado Obrigatoria
+MCTA014-15 Inteligencia Artificial 4 A Aprovado Obrigatoria
+MCTA015-13 Linguagens Formais e Automata 4 B Aprovado Obrigatoria
+NHI2049-13 Logica Basica 4 B Aprovado Obrigatoria
+MCZA001-13 Analise de Projetos 2 F Reprovado Opcao Limitada
+MCTB019-17 Matematica Discreta 4 A Aprovado Obrigatoria
+MCTA016-13 Paradigmas de Programacao 4 B Aprovado Obrigatoria
+;
+felipe.melo 1
+BCS0001-15 Base Experimental das Ciencias Naturais 3 B Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia	2 B Aprovado Obrigatoria
+BIK0102-15 Estrutura da Materia	3 A Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3	A Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 B Aprovado Obrigatoria
+BIS0005-15 Bases Computacionais da Ciencia 2 A Aprovado	Obrigatoria
+BCJ0204-15 Fenomenos Mecanicos 5 C Aprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre organismos e ambiente 3 A Aprovado Obrigatoria
+BCM0504-15 Natureza da Informacao 3 A Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 C Aprovado	Obrigatoria
+BCN0404-15 Geometria Analitica 3 C Aprovado Obrigatoria
+BCJ0205-15 Fenomenos Termicos 4	B Aprovado Obrigatoria
+BCL0307-15 Transformacoes Quimicas 5 C Aprovado	Obrigatoria
+BCM0505-15 Processamento da Informacao 5 B Aprovado Obrigatoria
+BCN0407-15 Funcoes de Varias Variaveis 4 D Aprovado Obrigatoria
+BCJ0203-15 Fenomenos Eletromagneticos 5	B Aprovado Obrigatoria
+BCM0506-15 Comunicacao e Redes 3 A Aprovado Obrigatoria
+;
+vitor.paulino 7
+BCS0001-15 Base Experimental das Ciencias Naturais 3 B Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia	2 C Aprovado Obrigatoria
+BIK0102-15 Estrutura da Materia	3 D Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3 B Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 F Reprovado Obrigatoria
+BIS0005-15 Bases Computacionais da Ciencia 2 C Aprovado Obrigatoria
+BCJ0204-15 Fenomenos Mecanicos 5 D Aprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre organismos e ambiente 3 C Aprovado Obrigatoria
+BCM0504-15 Natureza da Informacao 3 C Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 F Reprovado Obrigatoria
+BCN0404-15 Geometria Analitica 3 B Aprovado Obrigatoria
+BCJ0205-15 Fenomenos Termicos 4	C Aprovado Obrigatoria
+BCL0307-15 Transformacoes Quimicas 5 B	Aprovado Obrigatoria
+BCM0505-15 Processamento da Informacao 5 C Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 B Aprovado Obrigatoria
+BCN0407-15 Funcoes de Varias Variaveis 4 B Aprovado Obrigatoria
+BCJ0203-15 Fenomenos Eletromagneticos 5 C Aprovado Obrigatoria
+BCM0506-15 Comunicacao e Redes 3 B Aprovado Obrigatoria
+BCN0405-15 Introducao as Equacoes Diferenciais Ordinarias 4 B Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 D Aprovado Obrigatoria
+BIR0004-15 Bases Epistemologicas da Ciencia Moderna 3 C Aprovado Obrigatoria
+BCK0103-15 Fisica Quantica 3 D Aprovado Obrigatoria
+BCL0308-15 Bioquimica: Estrutura Propriedade e Funcoes de Biomoleculas 5 C Aprovado Obrigatoria
+BIR0603-15 Ciencia Tecnologia e Sociedade 3 B Aprovado	Obrigatoria
+ESTO001-17 Circuitos Eletricos e Fotonica 4 C Aprovado Obrigatoria
+ESTS003-17 Introducao a Astronautica 2 C Aprovado Obrigatoria
+MCTB001-17 Algebra Linear 6 F Reprovado Obrigatoria
+BCK0104-15 Interacoes Atomicas e Moleculares 3 D Aprovado Obrigatoria
+BIQ0602-15 Estrutura e Dinamica Social 3 C Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 B Aprovado Obrigatoria
+ESTO005-17 Introducao as Engenharias 2 A Aprovado Obrigatoria
+ESTO006-17 Materiais e Suas Propriedades 4 C Aprovado Obrigatoria
+ESTO011-17 Fundamentos de Desenho Tecnico 2 D Aprovado Obrigatoria
+MCTB009-17 Calculo Numerico 4 A Aprovado Obrigatoria
+MCTB010-13 Calculo Vetorial e Tensorial	4 B Aprovado Obrigatoria
+BHO1101-15 Introducao a Economia 4 C Aprovado Livre Escolha
+ESHC022-17 Macroeconomia I 4 D Aprovado Livre Escolha
+ESTE029-17 Engenharia de Combustiveis Fosseis 4 B Aprovado Livre Escolha
+ESTO013-17 Engenharia Economica 4 B Aprovado Obrigatoria
+ESTO014-17 Termodinamica Aplicada I 4 C Aprovado Obrigatoria
+ESTO015-17 Mecanica dos Fluidos I 4 C Aprovado Obrigatoria
+ESTI003-17 Transformadas em Sinais e Sistemas Lineares 4 C Aprovado Obrigatoria
+ESTO008-17 Mecanica dos Solidos I 4 B Aprovado Obrigatoria
+ESTO012-17 Principios de Administracao 2 B Aprovado Obrigatoria
+ESTS001-17 Dinamica I 4 C Aprovado Obrigatoria
+ESTS015-17 Combustao I 4 B Aprovado Obrigatoria
+MCTB001-17 Algebra Linear 6 B Aprovado Obrigatoria
+MCZC016-15 Neurociencia da Cognicao Musical 2 B	Aprovado Livre Escolha
+BCS0002-15 Projeto Dirigido 2 B	Aprovado Obrigatoria
+ESTA014-17 Sistemas CADCAM 4 A Aprovado Opcao Limitada
+ESTS002-17 Aeronautica I-A 4 B Aprovado	Obrigatoria
+ESTS019-17 Dinamica de Gases 6 B Aprovado Obrigatoria
+ESZS004-17 Avionica 4 B Aprovado Opcao Limitada
+ESTA003-17 Sistemas de Controle I 5 C Aprovado Obrigatoria
+ESTO902-17 Engenharia Unificada I 2 A Aprovado Obrigatoria
+ESTS004-17 Desempenho de Aeronaves 4 B Aprovado Obrigatoria
+ESTS009-17 Materiais Compositos e Aplicacoes Estruturais 4 B Aprovado Obrigatoria
+ESTS018-17 Transferencia de Calor Aplicada a Sistemas Aeroespaciais 4 B	Aprovado Obrigatoria
+ESZS003-17 Instrumentacao e Sensores em Veiculos Aeroespaciais 4 B Aprovado Opcao Limitada
+ESHR004-13 Economia Politica Internacional da Energia 4	D Aprovado Livre Escolha
+ESTA008-17 Sistemas de Controle II 5 B Aprovado Obrigatoria
+ESTO903-17 Engenharia Unificada II 2 A Aprovado Obrigatoria
+ESTS008-17 Vibracoes 4 B Aprovado Obrigatoria
+ESTS010-17 Tecnicas de Analise Estrutural e Projeto 4 C	Aprovado Obrigatoria
+ESTS005-17 Dinamica e Controle de Veiculos Espaciais 4 B Aprovado Obrigatoria
+ESTS007-17 Estabilidade e Controle de Aeronaves	4 B Aprovado Obrigatoria
+ESTS011-17 Metodos Computacionais para Analise Estrutural 4 A Aprovado Obrigatoria
+ESTS016-17 Aerodinamica I 4 A Aprovado Obrigatoria
+ESTI002-17 Eletronica Digital 6 A Aprovado Opcao Limitada
+ESTS013-17 Projeto de Elementos Estruturais de Aeronaves I 4 B Aprovado Obrigatoria
+ESTS017-17 Sistemas de Propulsao I 4 C Aprovado	Obrigatoria
+ESTS902-17 Trabalho de Graduacao I em Engenharia Aeroespacial 2	A Aprovado Obrigatoria
+ESZS021-17 Sistemas de Propulsao II 4 A Aprovado Opcao Limitada
+ESZS028-17 Projeto de Aeronaves I 4 A Aprovado Opcao Limitada
+;
+gabriel.souza 5
+BCS0001-15 Base Experimental das Ciencias Naturais 3 A Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia 2 A Aprovado Obrigatoria
+BIK0102-15 Estrutura da Materia 3 A Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3 A Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 A Aprovado Obrigatoria
+BIS0005-15 Bases Computacionais da Ciencia 2 C Aprovado Obrigatoria
+BCJ0204-15 Fenomenos Mecanicos 5 B Aprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre organismos e ambiente 3 A Aprovado Obrigatoria
+BCM0504-15 Natureza da Informacao 3 A Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 A Aprovado Obrigatoria
+BCN0404-15 Geometria Analitica 3 A Aprovado Obrigatoria
+BCJ0205-15 Fenomenos Termicos 4 B Aprovado Obrigatoria
+BCL0307-15 Transformacoes Quimicas 5 A Aprovado Obrigatoria
+BCM0505-15 Processamento da Informacao 5 B Aprovado Obrigatoria
+BCN0407-15 Funcoes de Varias Variaveis 4 B Aprovado Obrigatoria
+BCJ0203-15 Fenomenos Eletromagneticos 5 A Aprovado Obrigatoria
+BCM0506-15 Comunicacao e Redes 3 A Aprovado Obrigatoria
+BCN0405-15 Introducao as Equacoes Diferenciais Ordinarias 4 A Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 A Aprovado Obrigatoria
+ESTO005-17 Introducao as Engenharias 2 A Aprovado Opcao Limitada
+BCK0103-15 Fisica Quantica 3 B Aprovado Obrigatoria
+BCL0308-15 Bioquimica: Estrutura Propriedade e Funcoes de Biomoleculas 5 A Aprovado Obrigatoria
+BIQ0602-15 Estrutura e Dinamica Social 3 B Aprovado Obrigatoria
+ESTO013-17 Engenharia Economica 4 A Aprovado Opcao Limitada
+BCK0104-15 Interacoes Atomicas e Moleculares 3 B Aprovado Obrigatoria
+ESTO008-17 Mecanica dos Solidos I 4 A Aprovado Opcao Limitada
+MCTB009-17 Calculo Numerico 4 B Aprovado Opcao Limitada
+ESTI002-17 Eletronica Digital 6 B Aprovado Opcao Limitada
+ESTI005-17 Sinais Aleatorios 4 A Aprovado Opcao Limitada
+ESTO006-17 Materiais e Suas Propriedades 4 A Aprovado Opcao Limitada
+ESTO011-17 Fundamentos de Desenho Tecnico 2 A Aprovado Opcao Limitada
+;
+wendel.siquieri 7
+BCS0001-15 Base Experimental das Ciencias Naturais 3 A Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia	2 C Aprovado Obrigatoria
+BIK0102-15 Estrutura da Materia	3 C Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3	A Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 B Aprovado Obrigatoria
+BIS0005-15 Bases Computacionais da Ciencia 2 A Aprovado	Obrigatoria
+BCJ0204-15 Fenomenos Mecanicos 5 B Aprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre organismos e ambiente 3 B Aprovado Obrigatoria
+BCM0504-15 Natureza da Informacao 3 B Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 B Aprovado	Obrigatoria
+BCN0404-15 Geometria Analitica 3 A Aprovado Obrigatoria
+BCJ0205-15 Fenomenos Termicos 4	B Aprovado Obrigatoria
+BCL0307-15 Transformacoes Quimicas 5 A Aprovado	Obrigatoria
+BCM0505-15 Processamento da Informacao 5 A Aprovado Obrigatoria
+BCN0407-15 Funcoes de Varias Variaveis 4 B Aprovado Obrigatoria
+BCJ0203-15 Fenomenos Eletromagneticos 5	A Aprovado Obrigatoria
+BCM0506-15 Comunicacao e Redes 3 A Aprovado Obrigatoria
+BCN0405-15 Introducao as Equacoes Diferenciais Ordinarias 4 B Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 B Aprovado Obrigatoria
+BIR0004-15 Bases Epistemologicas da Ciencia Moderna 3 B	Aprovado Obrigatoria
+BCK0103-15 Fisica Quantica 3 A Aprovado Obrigatoria
+BCL0308-15 Bioquimica: Estrutura, Propriedade e Funcoes de Biomoleculas	5 A Aprovado Obrigatoria
+BIQ0602-15 Estrutura e Dinamica Social 3 A Aprovado Obrigatoria
+ESTO006-17 Materiais e Suas Propriedades 4 A Aprovado Obrigatoria
+MCTB001-17 Algebra Linear 6 B Aprovado Obrigatoria
+BCK0104-15 Interacoes Atomicas e Moleculares 3 A Aprovado Obrigatoria
+BIR0603-15 Ciencia, Tecnologia e Sociedade 3 A Aprovado Obrigatoria
+ESTB015-17 Principios de Etica em Servicos de Saude 2 A	Aprovado Livre Escolha
+ESTO005-17 Introducao as Engenharias 2 B Aprovado Obrigatoria
+ESTO011-17 Fundamentos de Desenho Tecnico 2 A Aprovado Obrigatoria
+ESTS003-17 Introducao a Astronautica 2 A Aprovado Obrigatoria
+ESZM002-17 Nanociencia e Nanotecnologia	2 B Aprovado Livre Escolha
+MCTB010-13 Calculo Vetorial e Tensorial	4 A Aprovado Obrigatoria
+ESTA018-17 Eletromagnetismo Aplicado 4 A Aprovado Livre Escolha
+ESTO013-17 Engenharia Economica	4 B Aprovado Obrigatoria
+ESTO014-17 Termodinamica Aplicada I 4 A	Aprovado Obrigatoria
+ESTO015-17 Mecanica dos Fluidos I 4 C Aprovado Obrigatoria
+NHZ3043-15 Nocoes de Astronomia e Cosmologia 4 B Aprovado Livre Escolha
+ESTA019-17 Projeto Assistido por Computador 2 A	Aprovado Livre Escolha
+ESTB010-17 Legislacao Relacionada a Saude 2 A Aprovado Livre Escolha
+ESTI003-17 Transformadas em Sinais e Sistemas Lineares 4 B Aprovado Obrigatoria
+ESTO008-17 Mecanica dos Solidos I 4 A Aprovado Obrigatoria
+ESTO012-17 Principios de Administracao 2 A Aprovado Obrigatoria
+NHT3012-15 Fisica do Continuo 4	A Aprovado Livre Escolha
+BCS0002-15 Projeto Dirigido 2 B	Aprovado Obrigatoria
+ESTO001-17 Circuitos Eletricos e Fotonica 4 A Aprovado Obrigatoria
+ESTS019-17 Dinamica de Gases 6 A Aprovado Obrigatoria
+MCTB009-17 Calculo Numerico 4 A Aprovado Obrigatoria
+MCZA008-17 Interacao Humano-Computador 4 A Aprovado Livre Escolha
+ESTA003-17 Sistemas de Controle I 5 A Aprovado Obrigatoria
+ESTO902-17 Engenharia Unificada I 2 A Aprovado Obrigatoria
+ESTS004-17 Desempenho de Aeronaves 4 A Aprovado	Obrigatoria
+ESTS009-17 Materiais Compositos e Aplicacoes Estruturais 4 A Aprovado Obrigatoria
+ESTS017-17 Sistemas de Propulsao I 4 A Aprovado	Obrigatoria
+ESTS018-17 Transferencia de Calor Aplicada a Sistemas Aeroespaciais 4 A	Aprovado Obrigatoria
+ESTA008-17 Sistemas de Controle II 5 A Aprovado Obrigatoria
+ESTS001-17 Dinamica I 4	A Aprovado Obrigatoria
+ESTS010-17 Tecnicas de Analise Estrutural e Projeto 4 A	Aprovado Obrigatoria
+ESTS015-17 Combustao I 4 B Aprovado Obrigatoria
+ESTS005-17 Dinamica e Controle de Veiculos Espaciais 4 A Aprovado Obrigatoria
+ESTS007-17 Estabilidade e Controle de Aeronaves	4 A Aprovado Obrigatoria
+ESTS016-17 Aerodinamica I 4 A Aprovado Obrigatoria
+ESZS021-17 Sistemas de Propulsao II 4 A	Aprovado Opcao Limitada
+ESZS025-17 Maquinas de Fluxo 4 A Aprovado Opcao Limitada
+ESZS034-17 Combustao II	4 A Aprovado Opcao Limitada
+ESTS002-17 Aeronautica I-A 4 A Aprovado	Obrigatoria
+ESTS008-17 Vibracoes 4 B Aprovado Obrigatoria
+ESTS013-17 Projeto de Elementos Estruturais de Aeronaves I 4 A Aprovado	Obrigatoria
+ESTS902-17 Trabalho de Graduacao I em Engenharia Aeroespacial 2 A Aprovado Obrigatoria
+ESZS028-17 Projeto de Aeronaves I 4 A Aprovado Opcao Limitada
+;
+daniel.alves 2
+BIS0005-15 Bases Computacionais da Ciencia 2 A Aprovado Obrigatoria
+BIQ0602-15 Estrutura e Dinamica Social 3 C Aprovado Obrigatoria
+BHO0001-19 Introducao as Humanidades e as Ciencias Sociais  2 B Aprovado Obrigatoria
+BHQ0003-15 Interpretacoes do Brasil 4 F Reprovado Obrigatoria
+BHQ0001-15 Identidade e Cultura 3 D Aprovado Obrigatoria 
+BHP0202-19 Temas e Problemas em Filosofia 3 B Aprovado Obrigatoria 
+BIR0603-15 Ciencia, Tecnologia e Sociedade 3 B Aprovado Obrigatoria
+BHP0202-15 Pensamento Critico 4 C Aprovado Obrigatoria
+BHO0101-15 Estado e Relacoes de Poder 4 A Aprovado Obrigatoria
+BHO1335-15 Formacao do Sistema Internacional 4 F Reprovado Obrigatoria
+BHO0002-19 Introducao ao Pensamento Economico 3 B Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 C Aprovado Obrigatoria
+ESHR022-14 Abordagens Tradicionais das Relacoes Internacionais 4 B Opcao Limitada
+MCTB001-17 Algebra Linear 6 A Aprovado Opcao Limitada
+ESZM002-17 Nanociencia e Nanotecnologia	2 B Aprovado Livre Escolha
+ESHC025-17 Microeconomia I 4 B Aprovado Opcao Limitada
+;
+ellen.oliveira 4
+BIR0603-15 Ciencia, Tecnologia e Sociedade 3 A Aprovado Obrigatoria
+BHP0201-15 Temas e Problemas em Filosofia 4 B Aprovado Obrigatoria
+BHO0101-15 Estado e Relacoes de Poder 4 C Aprovado Obrigatoria
+BHQ0003-15 Interpretacoes do Brasil 4 B Aprovado Obrigatoria
+BHQ0001-15 Identidade e Cultura 3 A Aprovado Obrigatoria
+BIS0003-15 Bases Matematicas 4 A Aprovado Obrigatoria
+BHP0202-15 Pensamento Critico 4 D Aprovado Obrigatoria
+BHO0001-15 Introducao as Humanidades e Ciencias Sociais 2 A Aprovado Obrigatoria
+BHO1101-15 Introducao a Economia 4 A Aprovado Obrigatoria
+BHO1335-15 Formacao do Sistema Internacional 4 B Aprovado Obrigatoria
+MCTC011-15 Psicologia Cognitiva 4 B Aprovado Opcao Limitada
+BIS0005-15 Bases Computacionais da Ciencia 2 B Aprovado Obrigatoria
+BIQ0602-15 Estrutura e Dinamica Social 3 B Aprovado Obrigatoria
+BHQ0301-15 Territorio e Sociedade 4 A Aprovado Obrigatoria
+BHQ0002-15 Estudos Etnico-Raciais 3 A Aprovado Obrigatoria
+BHP0001-15 Etica e Justica 4  A Aprovado Obrigatoria
+NHH2028-13 Filosofia Politica 4 C Aprovado Opcao Limitada
+BIK0102-15 Estrutura da Materia 3 C Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3 A Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia 2 B Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 D Aprovado Obrigatoria
+BIR0004-15 Bases Epistemologicas da Ciencia Moderna 3 D Aprovado Obrigatoria
+BHO0002-15 Pensamento Economico 3 B Aprovado Obrigatoria
+NHI2049-13 Logica Basica 4 D Aprovado Opcao Limitada
+BHO0102-15 Desenvolvimento e Sustentabilidade 4 A Aprovado Obrigatoria
+ESHC002-17 Contabilidade Basica 4 B Aprovado Obrigatoria
+ESHC020-17 Historia Economica Geral 4 A Aprovado Obrigatoria
+;
+katia.costa 6
+BCJ0204-15 Fenomenos Mecanicos 5 A Aprovado Obrigatoria
+BCJ0205-15 Fenomenos Termicos 4 A Aprovado Obrigatoria
+BCJ0203-15 Fenomenos Eletromagneticos 5 B Aprovado Obrigatoria
+BIJ0207-15 Bases Conceituais da Energia 2 D Aprovado Obrigatoria
+BIL0304-15 Evolucao e Diversificacao da Vida na Terra 3 C Aprovado Obrigatoria
+BCL0307-15 Transformacoes Quimicas 5 B Aprovado Obrigatoria
+BCL0306-15 Biodiversidade: Interacoes entre Organismos e Ambiente 3 A Aprovado Obrigatoria
+BCN0404-15 Geometria Analitica 3 C Aprovado Obrigatoria
+BCN0402-15 Funcoes de Uma Variavel 4 B Aprovado Obrigatoria
+BCN0407-15 Funcoes de Varias Variaveis 4 A Aprovado Obrigatoria
+BCN0405-15 Introducao as Equacoes Diferenciais Ordinarias 4 C Aprovado Obrigatoria
+BIN0406-15 Introducao a Probabilidade e a Estatistica 3 B Aprovado Obrigatoria
+BCM0504-15 Natureza da Informacao 3 A Aprovado Obrigatoria
+BCM0505-15 Processamento da Informacao 5 B Aprovado Obrigatoria
+ESZE083-17 Transferencia de Calor Industrial 4 A Aprovado Opcao Limitada
+ESZE084-17 Geracao de Vapor 4 A Aprovado Opcao Limitada
+ESZE085-17 Maquinas Termicas de Fluxo 4 B Aprovado Opcao Limitada
+ESZE086-17 Cogeracao 2 D Aprovado Opcao Limitada
+ESTE027-17 Laboratorio de Calor e Fluidos 2 B Aprovado Obrigatoria
+ESTS018-17 Transferencia de Calor Aplicada a Sistemas Aeroespaciais 4 B	Aprovado Livre Escolha
+ESZC001-17 Analise de Series Temporais - Topicos Especiais 4 D Aprovado Livre Escolha
+;

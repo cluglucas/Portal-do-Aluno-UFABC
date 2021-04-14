@@ -1,0 +1,14 @@
+1 Bacharelado em Ciência e Tecnologia 190 90 57 43
+2
+Bacharelado em Ciências e Humanidades 180 72 68 40
+3
+Bacharelado em Ciência da Computação 256 214 30 12
+4
+Bacharelado em Ciências Econômicas 226 203 12 11
+5
+Engenharia de Informação 300 245 28 27
+6
+Engenharia de Energia 300 262 25 13
+7
+Engenharia Aeroespacial 300 244 26 30
+ 
